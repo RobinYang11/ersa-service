@@ -1,0 +1,14 @@
+server:
+  port: 8881
+
+spring:
+  application:
+    name: registry-server
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:8881/eureka/
+
