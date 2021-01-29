@@ -1,0 +1,23 @@
+server:
+  port: 8884
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8881/eureka
+
+spring:
+  application:
+    name: user-service
+  datasource:
+    url: jdbc:mysql://106.14.237.78:3306/ersa-web?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    username: root
+    password: 1hbl#QThztwcs
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    dbcp2:
+      initial-size: 5
+      max-idle: 10
+      min-idle: 6
+      max-wait-millis: 10000
+
+

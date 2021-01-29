@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97835e5a-eb34-446a-9470-428e44cf3220" name="Default Changelist" comment="" />
+    <list default="true" id="97835e5a-eb34-446a-9470-428e44cf3220" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/ersa/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/ersa/gatewayservice/client/SsoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/ersa/gatewayservice/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/test/java/com/ersa/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/src/main/java/com/ersa/sso/api/TestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/src/main/java/com/ersa/sso/client/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/src/main/java/com/ersa/sso/ctrl/LoginCtrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-service/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/ersa/userservice/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/ersa/userservice/api/UserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/ersa/userservice/bean/UserBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/test/java/com/ersa/userservice/UserServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/src/main/java/com/ersa/sso/SsoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-service/src/main/java/com/ersa/sso/SsoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso/src/test/java/com/ersa/sso/SsoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-service/src/test/java/com/ersa/sso/SsoApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,12 +77,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1nab5hql1VJLPVMhRsAp7EdocHW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -48,7 +105,21 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Spring Boot.SsoApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayServiceApplication">
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ersa.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegistryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="registry-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ersa.registryserver.RegistryServerApplication" />
@@ -57,8 +128,22 @@
       </method>
     </configuration>
     <configuration name="SsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="sso" />
+      <module name="sso-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ersa.sso.SsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ersa.testservice.TestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ersa.userservice.UserServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,8 +153,14 @@
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.17965367" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -87,57 +178,84 @@
       <option name="presentableId" value="Default" />
       <updated>1611630966777</updated>
       <workItem from="1611630969812" duration="1662000" />
-      <workItem from="1611632675040" duration="11671000" />
+      <workItem from="1611632675040" duration="32492000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="182" key="#Project_Structure" timestamp="1611631547835">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1611915473907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1611631547835" />
-    <state width="1877" height="460" key="GridCell.Tab.0.bottom" timestamp="1611743872765">
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1611915473907" />
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1611906557814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
-    <state width="1877" height="460" key="GridCell.Tab.0.center" timestamp="1611743872765">
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611906557814" />
+    <state width="1515" height="411" key="GridCell.Tab.0.bottom" timestamp="1611915477451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
-    <state width="1877" height="460" key="GridCell.Tab.0.left" timestamp="1611743872765">
+    <state width="1515" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477451" />
+    <state width="1515" height="411" key="GridCell.Tab.0.center" timestamp="1611915477450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
-    <state width="1877" height="460" key="GridCell.Tab.0.right" timestamp="1611743872765">
+    <state width="1515" height="411" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477450" />
+    <state width="1515" height="411" key="GridCell.Tab.0.left" timestamp="1611915477450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
-    <state width="1877" height="460" key="GridCell.Tab.1.bottom" timestamp="1611743872765">
+    <state width="1515" height="411" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477450" />
+    <state width="1515" height="411" key="GridCell.Tab.0.right" timestamp="1611915477451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
-    <state width="1877" height="460" key="GridCell.Tab.1.center" timestamp="1611743872765">
+    <state width="1515" height="411" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477451" />
+    <state width="1515" height="411" key="GridCell.Tab.1.bottom" timestamp="1611915477451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
-    <state width="1877" height="460" key="GridCell.Tab.1.left" timestamp="1611743872765">
+    <state width="1515" height="411" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477451" />
+    <state width="1515" height="411" key="GridCell.Tab.1.center" timestamp="1611915477451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
-    <state width="1877" height="460" key="GridCell.Tab.1.right" timestamp="1611743872765">
+    <state width="1515" height="411" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477451" />
+    <state width="1515" height="411" key="GridCell.Tab.1.left" timestamp="1611915477451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="460" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611743872765" />
+    <state width="1515" height="411" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477451" />
+    <state width="1515" height="411" key="GridCell.Tab.1.right" timestamp="1611915477451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="411" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611915477451" />
+    <state width="1506" height="201" key="GridCell.Tab.2.bottom" timestamp="1611909240641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1506" height="201" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611909240641" />
+    <state width="1506" height="201" key="GridCell.Tab.2.center" timestamp="1611909240641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1506" height="201" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611909240641" />
+    <state width="1506" height="201" key="GridCell.Tab.2.left" timestamp="1611909240641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1506" height="201" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611909240641" />
+    <state width="1506" height="201" key="GridCell.Tab.2.right" timestamp="1611909240641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1506" height="201" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611909240641" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1611632102975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611632102975" />
-    <state x="334" y="224" key="new project wizard" timestamp="1611641724090">
+    <state x="334" y="224" key="new project wizard" timestamp="1611905721914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611641724090" />
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611905721914" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611906048546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611906048546" />
   </component>
 </project>

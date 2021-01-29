@@ -18,7 +18,9 @@
 
     <modules>
         <module>registry-server</module>
-        <module>sso</module>
+        <module>sso-service</module>
+        <module>user-service</module>
+        <module>gateway-service</module>
     </modules>
 
     <properties>
@@ -42,9 +44,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-
         </dependencies>
     </dependencyManagement>
-
 
 </project>

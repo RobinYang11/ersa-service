@@ -1,0 +1,25 @@
+server:
+  port: 8882
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8881/eureka/
+
+spring:
+  application:
+    name: sso-service
+  redis:
+    host: 106.14.237.78
+    password: 1hbl#QT@redis
+    port: 6379
+    timeout: 5000ms
+    database: 1
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: basic
